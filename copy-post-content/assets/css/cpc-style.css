@@ -1,0 +1,13 @@
+button.cpc-button {
+    background: #000;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+button.cpc-button:hover {
+    background: #000000bd;
+}
